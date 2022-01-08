@@ -1,17 +1,1 @@
-(() => {
-  const o = {};
-  function e(o) {
-    return Number(o.toString(2));
-  }
-  ((o) => {
-    typeof Symbol !== "undefined" &&
-      Symbol.toStringTag &&
-      Object.defineProperty(o, Symbol.toStringTag, { value: "Module" }),
-      Object.defineProperty(o, "__esModule", { value: !0 });
-  })(o),
-    console.log(e(1)),
-    console.log(e(2)),
-    console.log(e(3)),
-    console.log(e(5)),
-    (0, o.toBinary)();
-})();
+(()=>{"use strict";var e={};function o(e,o){return 180-(e+o)}(e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})})(e),console.log(o(30,60),90),console.log(o(60,60),60),(0,e.otherAngle)()})();
