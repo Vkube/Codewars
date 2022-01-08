@@ -1,5 +1,5 @@
 // path — встроенный в Node.js модуль
-const path = require("path")
+const path = require("path");
 
 module.exports = {
   // Указываем путь до входной точки:
@@ -9,6 +9,6 @@ module.exports = {
     // Путь до директории (важно использовать path.resolve):
     path: path.resolve(__dirname, "dist"),
     // Имя файла со сборкой:
-    filename: "bundle.js"
-  }
-}
+    filename: "bundle.js",
+  },
+};

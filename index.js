@@ -1,3 +1,3 @@
-import {toBinary} from "./tobinary";
+import { toBinary } from "./tobinary";
 
 toBinary();
