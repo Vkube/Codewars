@@ -4,6 +4,9 @@ const path = require("path");
 module.exports = {
   // Указываем путь до входной точки:
   entry: "./index.js",
+  devServer: {
+    static: "./dist",
+  },
   // Описываем, куда следует поместить результат работы:
   output: {
     // Путь до директории (важно использовать path.resolve):

@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node server.js",
+    "start": "webpack serve --open",
     "build": "webpack",
     "watch": "webpack --watch",
     "eslint": "npx eslint .",
-    "pretter":"npx prettier --write ."
+    "pretter": "npx prettier --write ."
   },
   "author": "s.drozdov",
   "license": "ISC",
@@ -22,6 +22,7 @@
     "eslint": "^8.6.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "webpack-dev-server": "^4.7.2"
   }
 }
