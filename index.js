@@ -1,5 +1,5 @@
-// import { toBinary } from "./tobinary";
-// toBinary();
+ import { toBinary } from "./tobinary";
+ toBinary();
 
 // import { isEven } from "./evenoradd";
 // even_or_odd();
