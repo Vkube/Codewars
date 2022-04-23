@@ -1,0 +1,15 @@
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\bin\Debug\net6.0\Bit to Decimal.exe
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\bin\Debug\net6.0\Bit to Decimal.deps.json
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\bin\Debug\net6.0\Bit to Decimal.runtimeconfig.json
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\bin\Debug\net6.0\Bit to Decimal.dll
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\bin\Debug\net6.0\ref\Bit to Decimal.dll
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\bin\Debug\net6.0\Bit to Decimal.pdb
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.csproj.AssemblyReference.cache
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.AssemblyInfoInputs.cache
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.AssemblyInfo.cs
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.csproj.CoreCompileInputs.cache
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.dll
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\ref\Bit to Decimal.dll
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.pdb
+C:\Users\sawma\RiderProjects\Bit to Decimal\Bit to Decimal\obj\Debug\net6.0\Bit to Decimal.genruntimeconfig.cache
