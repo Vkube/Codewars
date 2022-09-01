@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sawma\\RiderProjects\\Bit to Decimal\\Bit to Decimal\\Bit to Decimal.csproj": {}
+    "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sawma\\RiderProjects\\Bit to Decimal\\Bit to Decimal\\Bit to Decimal.csproj": {
+    "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sawma\\RiderProjects\\Bit to Decimal\\Bit to Decimal\\Bit to Decimal.csproj",
+        "projectUniqueName": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj",
         "projectName": "Bit to Decimal",
-        "projectPath": "C:\\Users\\sawma\\RiderProjects\\Bit to Decimal\\Bit to Decimal\\Bit to Decimal.csproj",
+        "projectPath": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj",
         "packagesPath": "C:\\Users\\sawma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sawma\\RiderProjects\\Bit to Decimal\\Bit to Decimal\\obj\\",
+        "outputPath": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sawma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
