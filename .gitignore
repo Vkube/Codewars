@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/C#/8kyu/Count by X/.idea/.idea.Count by X.dir/.idea/.gitignore
+/C#/8kyu/Count by X/.idea/.idea.Count by X.dir/.idea/encodings.xml
+/C#/8kyu/Count by X/.idea/.idea.Count by X.dir/.idea/indexLayout.xml
+/C#/8kyu/Count by X/.idea/.idea.Count by X.dir/.idea/projectSettingsUpdater.xml
+/C#/8kyu/Count by X/.idea/.idea.Count by X.dir/.idea/vcs.xml
+/C#/8kyu/Count by X/.idea/.idea.Count by X.dir/.idea/workspace.xml
+/C#/8kyu/Twice as old/.idea/.idea.Twice as old.dir/.idea/.gitignore
+/C#/8kyu/Twice as old/.idea/.idea.Twice as old.dir/.idea/encodings.xml
+/C#/8kyu/Twice as old/.idea/.idea.Twice as old.dir/.idea/indexLayout.xml
+/C#/8kyu/Twice as old/.idea/.idea.Twice as old.dir/.idea/vcs.xml
