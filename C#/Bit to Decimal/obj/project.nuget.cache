@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rqP2wVi7CdoJ4Yv9qk+xLBjW0lEzY6NJUjWp9S1sDEckn1/pTZrLusLgQWh6KALJ1O1tfJfzT3eXmNi8fT//Jg==",
+  "dgSpecHash": "I/Cgz2G7zG2dh0jZlgoF4y6NNbjdMaf9m16LFJ0JkkIwlmKYGd+iRg3DWUthONtG4GsoicKhVdCCnpBgYEI/Qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj",
+  "projectFilePath": "/home/mrrobot/RiderProjects/Codewars/C#/Bit to Decimal/Bit to Decimal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

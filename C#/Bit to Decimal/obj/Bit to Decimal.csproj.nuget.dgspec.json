@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj": {}
+    "/home/mrrobot/RiderProjects/Codewars/C#/Bit to Decimal/Bit to Decimal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj": {
+    "/home/mrrobot/RiderProjects/Codewars/C#/Bit to Decimal/Bit to Decimal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj",
+        "projectUniqueName": "/home/mrrobot/RiderProjects/Codewars/C#/Bit to Decimal/Bit to Decimal.csproj",
         "projectName": "Bit to Decimal",
-        "projectPath": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\Bit to Decimal.csproj",
-        "packagesPath": "C:\\Users\\sawma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sawma\\RiderProjects\\CodewarsGithubRep\\C#\\Bit to Decimal\\obj\\",
+        "projectPath": "/home/mrrobot/RiderProjects/Codewars/C#/Bit to Decimal/Bit to Decimal.csproj",
+        "packagesPath": "/home/mrrobot/.nuget/packages/",
+        "outputPath": "/home/mrrobot/RiderProjects/Codewars/C#/Bit to Decimal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sawma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/mrrobot/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
         }
       }
     }
